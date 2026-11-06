@@ -1,0 +1,13 @@
+{
+    "chart_title": "Top Albums of 2026 by Critic Score",
+    "data_points": [
+        {"label": "Lost Weekend", "artist": "Phoebe Bridgers", "value": 91},
+        {"label": "An Undying Love for a Burning World", "artist": "Neurosis", "value": 89},
+        {"label": "U", "artist": "underscores", "value": 88},
+        {"label": "Love Is Not Enough", "artist": "Converge", "value": 87},
+        {"label": "IT'S THE LONG GOODBYE", "artist": "The Twilight Sad", "value": 86},
+        {"label": "you seem pretty sad for a girl so in love", "artist": "Olivia Rodrigo", "value": 85},
+        {"label": "Nothing's About to Happen to Me", "artist": "Mitski", "value": 85},
+        {"label": "Pugnello", "artist": "Gilla Band", "value": 85}
+    ]
+}
